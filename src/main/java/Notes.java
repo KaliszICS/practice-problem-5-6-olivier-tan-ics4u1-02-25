@@ -11,5 +11,6 @@ class Notes {
 		//Is my code efficient
 		//Is my code easy to read
 		//Is my code easy to edit
+		
 	}
 }
